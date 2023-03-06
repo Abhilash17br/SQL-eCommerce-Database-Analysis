@@ -57,7 +57,7 @@ Use SQL to:
 * Day-parting analysis to understand how much support staff you should have at different times of day or days of the week*  
 * Analyzing seasonality to better prepare for upcoming spikes or slowdowns in demand.*
 
-# [🔹PRODUCT ANALYSIS.]()
+# [🔹PRODUCT ANALYSIS.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/PRODUCT%20ANALYSIS..sql)
 
 ## BUSINESS CONCEPT: PRODUCT SALES ANALYSIS.
 *Analyzing product sales helps you understand how each product contributes to your business, and how product launches impact the overall portfolio.*  
@@ -78,12 +78,14 @@ Use SQL to:
 * Taking product refund rates and the associated costs into account when assessing the overall performance of your business.*  
 
 
-# [🔹USER ANALYSIS.]()
+# [🔹USER ANALYSIS.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/USER%20ANALYSIS.sql)
 ## BUSINESS CONCEPT: ANALYZE REPEAT BEHAVIOR.
 *Analyzing repeat visits helps you understand user behavior and identify some of your most valuable customers*
 * Analyzing repeat activity to see how often customers are coming back to visit your site.*  
 * Understanding which channels they use when they come back, and whether or not you are paying for them again through paid channels.*  
 * Using your repeat visit activity to build a better understanding of the value of a customer in order to better optimize marketing channels.*  
 
+
+Thank you
 
 
