@@ -50,4 +50,12 @@ Use SQL to:
 * Understanding whether or not your paid traffic is generating a “halo” effect, and promoting additional direct traffic.*  
 * Assessing the impact of various initiatives on how many customers seek out your business.*  
 
-# BUSINESS PATTERNS & SEASONALITY
+# [🔹ANALYSIS FOR BUSINESS PATTERNS & SEASONALITY.]()
+
+### BUSINESS CONCEPT: ANALYZING SEASONALITY & BUSINESS PATTERNS.
+*Analyzing business patterns is about generating insights to help you maximize efficiency and anticipate future trends*   
+* Day-parting analysis to understand how much support staff you should have at different times of day or days of the week*  
+* Analyzing seasonality to better prepare for upcoming spikes or slowdowns in demand.*
+
+
+
