@@ -27,12 +27,27 @@ Use SQL to:
 * Identifying your top opportunities for landing pages – high volume pages with higher than expected bounce rates or low conversion rates.*  
 * Setting up A/B experiments on your live traffic to see if you can improve your bounce rates and conversion rates.*  
 * Analyzing test results and making recommendations on which version of landing pages you should use going forward.*   
-* 
+
 ### BUSINESS CONCEPT: ANALYZING & TESTING CONVERSION FUNNELS.
 *Conversion funnel analysis is about understanding and optimizing each step of your user’s experience on their journey toward purchasing your products*  
 * Identifying the most common paths customers take before purchasing your products.*  
 * Identifying how many of your users continue on to each next step in your conversion flow, and how many users abandon at each step.*  
 * Optimizing critical pain points where users are abandoning, so that you can convert more users and sell more products.*  
 
+## [🔹ANALYSIS FOR CHANNEL MANAGEMENT.]()
 
+### BUSINESS CONCEPT: CHANNEL PORTFOLIO OPTIMIZATION.
+*Analyzing a portfolio of marketing channels is about bidding efficiently and using data to maximize the effectiveness of your marketing budget*  
 
+* Understanding which marketing channels are driving the most sessions and orders through your website.*  
+* Understanding differences in user characteristics and conversion performance across marketing channels.*  
+* Optimizing bids and allocating marketing spend across a multi-channel portfolio to achieve maximum performance.*  
+
+### BUSINESS CONCEPT: ANALYZING DIRECT TRAFFIC.
+*Analyzing your branded or direct traffic is about keeping a pulse on how well your brand is doing with consumers, and how well your brand drives business*  
+
+* Identifying how much revenue you are generating from direct traffic – this is high margin revenue without a direct cost of customer acquisition.*  
+* Understanding whether or not your paid traffic is generating a “halo” effect, and promoting additional direct traffic.*  
+* Assessing the impact of various initiatives on how many customers seek out your business.*  
+
+# BUSINESS PATTERNS & SEASONALITY
