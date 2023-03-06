@@ -22,3 +22,15 @@ Use SQL to:
 * Identifying the most common entry pages to your website – the first thing a user sees.*  
 * For most-viewed pages and most common entry pages, understanding how those pages perform for your business objectives.*  
  
+### BUSINESS CONCEPT: LANDING PAGE PERFORMANCE & TESTING
+*Landing page analysis and testing is about understanding the performance ofyour key landing pages and then testing to improve your results*  
+* Identifying your top opportunities for landing pages – high volume pages with higher than expected bounce rates or low conversion rates.*  
+* Setting up A/B experiments on your live traffic to see if you can improve your bounce rates and conversion rates.*  
+* Analyzing test results and making recommendations on which version of landing pages you should use going forward.*   
+* 
+### BUSINESS CONCEPT: ANALYZING & TESTING CONVERSION FUNNELS.
+*Conversion funnel analysis is about understanding and optimizing each step of your user’s experience on their journey toward purchasing your products*  
+* Identifying the most common paths customers take before purchasing your products.*  
+* Identifying how many of your users continue on to each next step in your conversion flow, and how many users abandon at each step.*  
+* Optimizing critical pain points where users are abandoning, so that you can convert more users and sell more products.*  
+
