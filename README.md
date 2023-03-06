@@ -34,3 +34,5 @@ Use SQL to:
 * Identifying how many of your users continue on to each next step in your conversion flow, and how many users abandon at each step.*  
 * Optimizing critical pain points where users are abandoning, so that you can convert more users and sell more products.*  
 
+
+
