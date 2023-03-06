@@ -34,7 +34,7 @@ Use SQL to:
 * Identifying how many of your users continue on to each next step in your conversion flow, and how many users abandon at each step.*  
 * Optimizing critical pain points where users are abandoning, so that you can convert more users and sell more products.*  
 
-## [🔹ANALYSIS FOR CHANNEL MANAGEMENT.]()
+## [🔹ANALYSIS FOR CHANNEL MANAGEMENT.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/ANALYSIS%20FOR%20CHANNEL%20MANAGEMENT.sql)
 
 ### BUSINESS CONCEPT: CHANNEL PORTFOLIO OPTIMIZATION.
 *Analyzing a portfolio of marketing channels is about bidding efficiently and using data to maximize the effectiveness of your marketing budget*  
@@ -50,7 +50,7 @@ Use SQL to:
 * Understanding whether or not your paid traffic is generating a “halo” effect, and promoting additional direct traffic.*  
 * Assessing the impact of various initiatives on how many customers seek out your business.*  
 
-# [🔹ANALYSIS FOR BUSINESS PATTERNS & SEASONALITY.]()
+# [🔹ANALYSIS FOR BUSINESS PATTERNS & SEASONALITY.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/ANALYSIS%20FOR%20BUSINESS%20PATTERNS%20%26%20SEASONALITY..sql)
 
 ### BUSINESS CONCEPT: ANALYZING SEASONALITY & BUSINESS PATTERNS.
 *Analyzing business patterns is about generating insights to help you maximize efficiency and anticipate future trends*   
