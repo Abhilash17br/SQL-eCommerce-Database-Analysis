@@ -10,13 +10,13 @@ Use SQL to:
 *Become the data expert for the company, and the go to person for mission critical analyses.*  
 *Analyze and optimize the business’ marketing channels, website, and product portfolio.*  
 
-## 🔹ANALYZING TRAFFIC SOURCES
+## [🔹ANALYZING TRAFFIC SOURCES.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/ANALYZING%20TRAFFIC%20SOURCES.sql)
 *Traffic source analysis is about understanding where your customers are coming from and which channels are driving the highest quality traffic EMAIL*
 * Analyzing search data and shifting budget towards the engines, campaigns or keywords driving the strongest conversion rates.*
 * Comparing user behavior patterns across traffic sources to inform creative and messaging strategy.*
 * Identifying opportunities to eliminate wasted spend or scale high-converting traffic.*
 
-## 🔹ANALYZING WEBSITE PERFORMANCE.
+## [🔹ANALYZING WEBSITE PERFORMANCE.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/ANALYZING%20WEBSITE%20PERFORMANCE..sql)
 *Website content analysis is about understanding which pages are seen the most by your users, to identify where to focus on improving your business*
 * Finding the most-viewed pages that customers view on your site.*  
 * Identifying the most common entry pages to your website – the first thing a user sees.*  
