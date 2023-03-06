@@ -86,6 +86,6 @@ Use SQL to:
 * Using your repeat visit activity to build a better understanding of the value of a customer in order to better optimize marketing channels.*  
 
 
-Thank you
+# Thank you
 
 
