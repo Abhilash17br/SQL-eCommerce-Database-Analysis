@@ -50,36 +50,36 @@ Use SQL to:
 * Understanding whether or not your paid traffic is generating a “halo” effect, and promoting additional direct traffic.*  
 * Assessing the impact of various initiatives on how many customers seek out your business.*  
 
-# [🔹ANALYSIS FOR BUSINESS PATTERNS & SEASONALITY.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/ANALYSIS%20FOR%20BUSINESS%20PATTERNS%20%26%20SEASONALITY..sql)
+## [🔹ANALYSIS FOR BUSINESS PATTERNS & SEASONALITY.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/ANALYSIS%20FOR%20BUSINESS%20PATTERNS%20%26%20SEASONALITY..sql)
 
 ### BUSINESS CONCEPT: ANALYZING SEASONALITY & BUSINESS PATTERNS.
 *Analyzing business patterns is about generating insights to help you maximize efficiency and anticipate future trends*   
 * Day-parting analysis to understand how much support staff you should have at different times of day or days of the week*  
 * Analyzing seasonality to better prepare for upcoming spikes or slowdowns in demand.*
 
-# [🔹PRODUCT ANALYSIS.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/PRODUCT%20ANALYSIS..sql)
+## [🔹PRODUCT ANALYSIS.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/PRODUCT%20ANALYSIS..sql)
 
-## BUSINESS CONCEPT: PRODUCT SALES ANALYSIS.
+### BUSINESS CONCEPT: PRODUCT SALES ANALYSIS.
 *Analyzing product sales helps you understand how each product contributes to your business, and how product launches impact the overall portfolio.*  
 * Analyzing sales and revenue by product.*  
 * Monitoring the impact of adding a new product to your product portfolio.*  
 * Watching product sales trends to understand the overall health of your business.*  
 
-## BUSINESS CONCEPT: PRODUCT LEVEL WEBSITE ANALYSIS.
+### BUSINESS CONCEPT: PRODUCT LEVEL WEBSITE ANALYSIS.
 *Product-focused website analysis is about learning how customers interact with each of your products, and how well each product converts customers*  
 * Understanding which of your products generate the most interest on multi-product showcase pages.*  
 * Analyzing the impact on website conversion rates when you add a new product.*  
 * Building product-specific conversion funnels to understand whether certain products convert better than others.*  
 
-## BUSINESS CONCEPT: PRODUCT REFUND ANALYSIS.
+### BUSINESS CONCEPT: PRODUCT REFUND ANALYSIS.
 *Analyzing product refund rates is about controlling for quality and understanding where you might have problems to address*  
 * Monitoring products from different suppliers.*  
 * Understanding refund rates for products at different price points.*  
 * Taking product refund rates and the associated costs into account when assessing the overall performance of your business.*  
 
 
-# [🔹USER ANALYSIS.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/USER%20ANALYSIS.sql)
-## BUSINESS CONCEPT: ANALYZE REPEAT BEHAVIOR.
+## [🔹USER ANALYSIS.](https://github.com/Abhilash17br/SQL-eCommerce-Database-Analysis/blob/main/USER%20ANALYSIS.sql)
+### BUSINESS CONCEPT: ANALYZE REPEAT BEHAVIOR.
 *Analyzing repeat visits helps you understand user behavior and identify some of your most valuable customers*
 * Analyzing repeat activity to see how often customers are coming back to visit your site.*  
 * Understanding which channels they use when they come back, and whether or not you are paying for them again through paid channels.*  
